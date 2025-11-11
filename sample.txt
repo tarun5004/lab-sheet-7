@@ -1,0 +1,4 @@
+Hello world.
+Python is easy to learn.
+File handling is interesting.
+This is the last line.
